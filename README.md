@@ -22,3 +22,4 @@ Universal (Evrensel): Farklı cihazlarla uyumluluk sağlar.
 
 Serial (Seri): Verileri bit bit aktarır.
 
+Bus (Veri Yolu): Birden fazla cihazın aynı hat üzerinden haberleşmesine olanak tanır

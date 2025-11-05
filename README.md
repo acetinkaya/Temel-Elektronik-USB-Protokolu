@@ -56,7 +56,7 @@ USB 3.0 kablolarda USB 2.0'a göre ek olarak 5 pin daha bulunur (SSTX±, SSRX±,
 | 4   | Siyah   | GND  | Toprak         |
 | 5   | Mavi    | SSRX- | Hızlı Data Gönderici |
 | 6   | Sarı    | SSRX+ | Hızlı Data Gönderici |
-| 7   | Ground   | GND_Grain  |          |
+| 7   | Ground   | GND_Grain  |     Toprak     |
 | 8   | Mor    | SSTX- |          |
 | 9   | Turuncu    | SSTX+ |          |
 | Shell   | Konnektör Kabuğu  | |    |

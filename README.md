@@ -31,5 +31,5 @@ USB Sürümleri
 | Sürüm               | Yıl       | Maksimum Hız | Kablo Tipi / Not        |
 | ------------------- | --------- | ------------ | ----------------------- |
 | USB 1.0 / 1.1       | 1996      | 12 Mbps      | Düşük hız / Orta hız    |
-| USB 2.0             | 2000      | 480 Mbps     |
+| USB 2.0             | 2000      | 480 Mbps     | Yaygın kullanılan sürüm |
 

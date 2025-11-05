@@ -29,4 +29,4 @@ Bus (Veri Yolu): Birden fazla cihazın aynı hat üzerinden haberleşmesine olan
 USB Sürümleri
 
 | Sürüm               | Yıl       | Maksimum Hız | Kablo Tipi / Not        |
-| ------------------- | --------- | 
+| ------------------- | --------- | ------------ | ----------------------- |

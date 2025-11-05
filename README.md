@@ -4,4 +4,7 @@ Elektroniğin dijital dünyaya açılan kapısı: USB Protokolü
 
 Bu ders notunda;
 
-Temel Elektronik Dersi kapsamında USB (Universal Serial Bus) protokolünün yapısı, 
+Temel Elektronik Dersi kapsamında USB (Universal Serial Bus) protokolünün yapısı, çalışma prensibi ve veri iletişim modları ele alınmıştır. 
+
+
+

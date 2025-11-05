@@ -15,3 +15,5 @@ Mikrodenetleyici ve ortamında USB üzerinden veri haberleşmesi örneğiyle USB
 ---
 
 USB Nedir?
+
+USB, bilgisayarlar ile çevre birimleri 

@@ -10,6 +10,6 @@ USB’nin fiziksel pin yapısı, mimari katmanları, veri aktarım yöntemleri v
 
 USB protokolünün temel prensipleri; pin bağlantıları, veri hattı (D+ / D−) iletişimi ve güç aktarımı açısından incelenmiştir. 
 
-Mikrodenetleyici ve ortamında USB üzerinden veri haberleşmesi örneğiyle 
+Mikrodenetleyici ve ortamında USB üzerinden veri haberleşmesi örneğiyle USB protokolün arduino nano prototatipleme kartı üzerinde pratik kullanımı ve kod örneği ele alınmıştır.
 
 ---

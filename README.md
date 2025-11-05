@@ -32,4 +32,4 @@ USB Sürümleri
 | ------------------- | --------- | ------------ | ----------------------- |
 | USB 1.0 / 1.1       | 1996      | 12 Mbps      | Düşük hız / Orta hız    |
 | USB 2.0             | 2000      | 480 Mbps     | Yaygın kullanılan sürüm |
-| USB 3.0 / 3.1 / 3.2 | 2008–2017 | 5–20 Gbps    | 
+| USB 3.0 / 3.1 / 3.2 | 2008–2017 | 5–20 Gbps    | “SuperSpeed” mimarisi   |

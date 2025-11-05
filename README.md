@@ -10,4 +10,5 @@ USB’nin fiziksel pin yapısı, mimari katmanları, veri aktarım yöntemleri v
 
 ---
 
-USB protokolünün temel 
+USB protokolünün temel prensipleri; 
+

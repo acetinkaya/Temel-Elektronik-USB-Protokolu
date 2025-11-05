@@ -20,4 +20,5 @@ USB, bilgisayarlar ile çevre birimleri (fare, klavye, yazıcı, mikrodenetleyic
 
 Universal (Evrensel): Farklı cihazlarla uyumluluk sağlar.
 
+Serial (Seri): Verileri bit bit aktarır.
 

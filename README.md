@@ -42,4 +42,5 @@ USB Fiziksel Katman (Pin Yapısı)
 USB 2.0 Standart Kablo (Tip-A, Tip-B):     
 | Pin | Renk    | Adı  | Açıklama       |
 | --- | ------- | ---- | -------------- |
+| 1   | Kırmızı | VBUS | +5V Güç Hattı  |
 

@@ -13,3 +13,5 @@ USB protokolünün temel prensipleri; pin bağlantıları, veri hattı (D+ / D�
 Mikrodenetleyici ve ortamında USB üzerinden veri haberleşmesi örneğiyle USB protokolün arduino nano prototatipleme kartı üzerinde pratik kullanımı ve kod örneği ele alınmıştır.
 
 ---
+
+

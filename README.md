@@ -34,3 +34,7 @@ USB Sürümleri
 | USB 2.0             | 2000      | 480 Mbps     | Yaygın kullanılan sürüm |
 | USB 3.0 / 3.1 / 3.2 | 2008–2017 | 5–20 Gbps    | “SuperSpeed” mimarisi   |
 | USB 4.0             | 2019      | 40 Gbps      | Thunderbolt 3 uyumlu    |
+
+---
+
+USB Fiziksel Katman (Pin Yapısı)

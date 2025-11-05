@@ -43,4 +43,5 @@ USB 2.0 Standart Kablo (Tip-A, Tip-B):
 | Pin | Renk    | Adı  | Açıklama       |
 | --- | ------- | ---- | -------------- |
 | 1   | Kırmızı | VBUS | +5V Güç Hattı  |
+| 2   | Beyaz   | D−   | Veri (−) Hattı |
 

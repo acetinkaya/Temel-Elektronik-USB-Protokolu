@@ -9,3 +9,7 @@ Temel Elektronik Dersi kapsamında USB (Universal Serial Bus) protokolünün yap
 USB’nin fiziksel pin yapısı, mimari katmanları, veri aktarım yöntemleri ve uygulama örnekleri üzerinden teorik ve pratik bir bakış sunulmuştur.
 
 USB protokolünün temel prensipleri; pin bağlantıları, veri hattı (D+ / D−) iletişimi ve güç aktarımı açısından incelenmiştir. 
+
+Mikrodenetleyici ve ortamında USB üzerinden veri haberleşmesi örneğiyle 
+
+---

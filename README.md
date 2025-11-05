@@ -51,5 +51,6 @@ USB 3.0 kablolarda USB 2.0'a göre ek olarak 5 pin daha bulunur (SSTX±, SSRX±,
 | Pin | Renk    | Adı  | Açıklama       |
 | --- | ------- | ---- | -------------- |
 | 1   | Kırmızı | VBUS | +5V Güç Hattı  |
+| 2   | Beyaz   | D−   | Veri (−) Hattı |
 
 

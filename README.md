@@ -38,3 +38,5 @@ USB Sürümleri
 ---
 
 USB Fiziksel Katman (Pin Yapısı)
+
+USB 2.0 Standart Kablo 

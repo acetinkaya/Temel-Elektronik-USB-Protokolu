@@ -97,3 +97,6 @@ Endpoint: Cihazın veri alışveriş noktaları (ör. IN/OUT uçları)
 ---
 
 6. USB Paket Yapısı
+
+Bir USB veri çerçevesi (frame), paketlerden (packet) oluşur:
+

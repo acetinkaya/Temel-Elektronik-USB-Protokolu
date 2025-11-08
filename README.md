@@ -77,5 +77,7 @@ USB iletişimi Host (Ana Cihaz) ve Device (Bağımlı Cihaz) arasında gerçekle
 
 Host Controller: PC veya mikrodenetleyici tarafı
 
+Hub: Çoklayıcı (tek porttan çoklu cihaz bağlantısı)
+
 
 

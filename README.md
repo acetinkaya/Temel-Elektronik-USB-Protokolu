@@ -149,6 +149,8 @@ Dezavantajlar:
 
 USB paket yapısı içerisinde “Ali” metin verisini DATA field içinde nasıl taşındığını adım adım görelim.
 
+---
+
 
 DANIŞMANLI OGRENME @2025
 

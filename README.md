@@ -87,3 +87,5 @@ Endpoint: Cihazın veri alışveriş noktaları (ör. IN/OUT uçları)
 
 5. Veri Transfer Modları
 
+| Mod                      | Özellik                      | Kullanım Alanı               |
+

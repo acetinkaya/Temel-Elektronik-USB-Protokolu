@@ -100,3 +100,4 @@ Endpoint: Cihazın veri alışveriş noktaları (ör. IN/OUT uçları)
 
 Bir USB veri çerçevesi (frame), paketlerden (packet) oluşur:
 
+| SYNC | PID | 

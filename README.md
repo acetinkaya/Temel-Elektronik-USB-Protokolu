@@ -71,4 +71,4 @@ USB 3.0 kablolarda USB 2.0'a göre ek olarak 5 pin daha bulunur (SSTX±, SSRX±,
 
 4. USB Mimari Yapısı
 
-USB iletişimi Host (Ana Cihaz) ve Device (Bağımlı Cihaz) arasında 
+USB iletişimi Host (Ana Cihaz) ve Device (Bağımlı Cihaz) arasında gerçekleşir. 

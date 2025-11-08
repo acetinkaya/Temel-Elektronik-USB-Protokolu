@@ -157,6 +157,8 @@ https://www.youtube.com/@danismanliogrenme
 
 https://www.instagram.com/danismanliogrenme/
 
+Proje Çalışmalarınız için iletişim DM
 
+@danismanliogrenme
 
 

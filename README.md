@@ -14,7 +14,7 @@ Mikrodenetleyici ve ortamında USB üzerinden veri haberleşmesi örneğiyle USB
 
 ---
 
-USB Nedir?
+1. USB Nedir?
 
 USB, bilgisayarlar ile çevre birimleri (fare, klavye, yazıcı, mikrodenetleyici kartları vb.) arasında veri ve güç aktarımını standartlaştıran seri iletişim protokolüdür.
 

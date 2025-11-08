@@ -152,6 +152,7 @@ USB paket yapısı içerisinde “Ali” metin verisini DATA field içinde nası
 --> "Ali" bilgisindeki her karakterin ASCII Kod Karşılığı
 
 | Karakter | ASCII (dec) | ASCII (hex) | Binary   |
+| -------- | ----------- | ----------- | -------- |
 
 
 

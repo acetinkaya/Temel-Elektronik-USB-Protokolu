@@ -149,8 +149,11 @@ Dezavantajlar:
 
 USB paket yapısı içerisinde “Ali” metin verisini DATA field içinde nasıl taşındığını adım adım görelim.
 
----
+--> "Ali" bilgisindeki her karakterin ASCII Kod Karşılığı
 
+
+
+---
 
 DANIŞMANLI OGRENME @2025
 

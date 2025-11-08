@@ -121,9 +121,9 @@ void setup()
   Serial.begin(9600); // USB üzerinden seri haberleşme başlatılır     
 }    
 
-void loop()     
-{
-  Serial.println("Merhaba Hayat");
+void loop()        
+{    
+  Serial.println("Merhaba Hayat");    
   delay(1000);
 }
 

@@ -173,6 +173,11 @@ SYNC | PID(DATA0) | 41 6C 69 | CRC16 | EOP ==> DATA alanında “Ali” ASCII ko
 
 SYNC | PID(ACK) | EOP  ==> Device paketi düzgün aldığını bildirir.
 
+	TOKEN  : [SYNC][PID=OUT][ADDR][ENDP][CRC5][EOP]
+	DATA   : [SYNC][PID=DATA0][41][6C][69][CRC16][EOP]
+	HANDSHAKE : [SYNC][PID=ACK][EOP]
+
+
 
 ---
 

@@ -75,5 +75,7 @@ USB iletişimi Host (Ana Cihaz) ve Device (Bağımlı Cihaz) arasında gerçekle
 
 ---> İletişim Akışı: Host → Hub → Device → Endpoint
 
-Host Controller: 
+Host Controller: PC veya mikrodenetleyici tarafı
+
+
 

@@ -79,5 +79,7 @@ Host Controller: PC veya mikrodenetleyici tarafı
 
 Hub: Çoklayıcı (tek porttan çoklu cihaz bağlantısı)
 
+Device: USB bellek, sensör, kamera vb.
+
 
 

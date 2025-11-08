@@ -145,7 +145,7 @@ Dezavantajlar:
 
 ---
 
-9.  Görsel Şema 
+9.  Örnek Bilgi Gönderimi
 
 
 

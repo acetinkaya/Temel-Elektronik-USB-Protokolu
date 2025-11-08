@@ -67,4 +67,6 @@ USB 3.0 kablolarda USB 2.0'a göre ek olarak 5 pin daha bulunur (SSTX±, SSRX±,
 
 https://github.com/acetinkaya/Temel-Elektronik-USB-Protokolu/blob/main/usb30-1.png
 
+---
+
 

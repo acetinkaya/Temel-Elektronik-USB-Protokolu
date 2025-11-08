@@ -120,4 +120,8 @@ void setup()
 }
 
 void loop() 
+{
+  Serial.println("Merhaba Hayat");
+  delay(1000);
+}
 

@@ -177,7 +177,7 @@ SYNC | PID(ACK) | EOP  ==> Device paketi düzgün aldığını bildirir.
 	DATA   : [SYNC][PID=DATA0][41][6C][69][CRC16][EOP]
 	HANDSHAKE : [SYNC][PID=ACK][EOP]
 
-
+https://github.com/acetinkaya/Temel-Elektronik-USB-Protokolu/blob/main/usb_ali.png
 
 ---
 

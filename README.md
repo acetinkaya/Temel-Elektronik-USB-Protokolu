@@ -75,13 +75,13 @@ USB iletişimi Host (Ana Cihaz) ve Device (Bağımlı Cihaz) arasında gerçekle
 
 ---> İletişim Akışı: Host → Hub → Device → Endpoint
 
-Host Controller: PC veya mikrodenetleyici tarafı
+Host Controller: PC veya mikrodenetleyici tarafı    
 
-Hub: Çoklayıcı (tek porttan çoklu cihaz bağlantısı)
+Hub: Çoklayıcı (tek porttan çoklu cihaz bağlantısı)    
 
-Device: USB bellek, sensör, kamera vb.
+Device: USB bellek, sensör, kamera vb.   
 
-Endpoint: Cihazın veri alışveriş noktaları (ör. IN/OUT uçları)
+Endpoint: Cihazın veri alışveriş noktaları (ör. IN/OUT uçları)    
 
 ---
 

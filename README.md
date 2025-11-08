@@ -114,6 +114,8 @@ EOP: Çerçeve sonu
 
 --> Arduino üzerinde USB Protokolü ile Seri Haberleşme Uygulaması:
 
+🧠 Bu örnekte, Arduino IDE programı üzerinden USB kablo aracılığıyla bilgisayara veri gönderimi yapılır. 
+
 void setup() 
 {
   Serial.begin(9600); // USB üzerinden seri haberleşme başlatılır 

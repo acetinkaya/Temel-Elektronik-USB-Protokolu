@@ -47,6 +47,7 @@ USB 2.0 Standart Kablo (Tip-A, Tip-B):
 | 3   | Yeşil   | D+   | Veri (+) Hattı |
 | 4   | Siyah   | GND  | Toprak         |
 
+https://github.com/acetinkaya/Temel-Elektronik-USB-Protokolu/blob/main/usb20-1.png
 
 ---
 

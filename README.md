@@ -149,6 +149,10 @@ Dezavantajlar:
 
 
 
-DANIŞMANLI OGRENME
+DANIŞMANLI OGRENME @2025
+
+Takip edip destek verdiğiniz için teşekkürler...
+
+
 
 

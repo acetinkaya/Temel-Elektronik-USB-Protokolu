@@ -116,8 +116,8 @@ EOP: Çerçeve sonu
 
 🧠 Bu örnekte, Arduino IDE programı üzerinden USB kablo aracılığıyla bilgisayara veri gönderimi yapılır. USB protokolü, aslında seri iletişimi (UART) sanal olarak USB portu üzerinden sağlar.
 
-void setup() 
-{
+void setup()    
+{   
   Serial.begin(9600); // USB üzerinden seri haberleşme başlatılır 
 }
 

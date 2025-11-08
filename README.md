@@ -147,6 +147,7 @@ Dezavantajlar:
 
 9.  Örnek Bilgi Gönderimi
 
+USB paket yapısı 
 
 
 DANIŞMANLI OGRENME @2025

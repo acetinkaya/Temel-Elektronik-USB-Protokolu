@@ -105,4 +105,5 @@ Bir USB veri çerçevesi (frame), paketlerden (packet) oluşur:
 SYNC: Senkronizasyon başlatma
 PID: Paket tipi tanımlayıcı
 ADDR / ENDP: Hedef adres ve uç noktası
-
+DATA: Veri alanı
+EOP: Çerçeve sonu

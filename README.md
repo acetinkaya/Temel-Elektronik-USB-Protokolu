@@ -128,3 +128,10 @@ void loop()
 }
 
 8. Avantajlar ve Dezavantajlar
+
+Avantajlar:
+
+	Tak-çalıştır (Plug & Play) desteği
+	Güç + veri aynı kablodan
+
+

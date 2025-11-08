@@ -83,3 +83,4 @@ Device: USB bellek, sensör, kamera vb.
 
 Endpoint: Cihazın veri alışveriş noktaları (ör. IN/OUT uçları)
 
+---

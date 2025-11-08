@@ -147,7 +147,7 @@ Dezavantajlar:
 
 9.  Örnek Bilgi Gönderimi
 
-USB paket yapısı içerisinde “Ali” metin verisini DATA field içinde 
+USB paket yapısı içerisinde “Ali” metin verisini DATA field içinde nasıl taşındığını adım adım görelim.
 
 
 DANIŞMANLI OGRENME @2025

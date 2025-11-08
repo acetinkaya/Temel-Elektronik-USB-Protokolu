@@ -81,5 +81,5 @@ Hub: Çoklayıcı (tek porttan çoklu cihaz bağlantısı)
 
 Device: USB bellek, sensör, kamera vb.
 
-
+Endpoint: Cihazın veri 
 

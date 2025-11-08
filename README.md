@@ -116,7 +116,8 @@ EOP: Çerçeve sonu
 
 void setup() 
 {
-  Serial.begin(9600); // USB üzerinden seri haberleşme başlatılır
+  Serial.begin(9600); // USB üzerinden seri haberleşme başlatılır 
 }
 
+void loop() 
 

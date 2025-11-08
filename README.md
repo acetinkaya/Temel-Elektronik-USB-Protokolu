@@ -124,9 +124,9 @@ void setup()
 void loop()        
 {    
   Serial.println("Merhaba Hayat");    
-  delay(1000);
-}
-
+  delay(1000);    
+}   
+   
 ---
 
 8. Avantajlar ve Dezavantajlar

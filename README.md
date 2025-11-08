@@ -157,6 +157,8 @@ USB paket yapısı içerisinde “Ali” metin verisini DATA field içinde nası
 | l        | 108         | 0x6C        | 01101100 |
 | i        | 105         | 0x69        | 01101001 |
 
+Veri olarak gönderilecek 3 bayt: 41 6C 69
+
 
 ---
 

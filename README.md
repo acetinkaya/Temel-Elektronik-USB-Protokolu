@@ -147,7 +147,7 @@ Dezavantajlar:
 
 9.  Örnek Bilgi Gönderimi
 
-USB paket yapısı 
+USB paket yapısı içerisinde “Ali” metin 
 
 
 DANIŞMANLI OGRENME @2025

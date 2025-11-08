@@ -89,4 +89,6 @@ Endpoint: Cihazın veri alışveriş noktaları (ör. IN/OUT uçları)
 
 | Mod                      | Özellik                      | Kullanım Alanı               |
 | ------------------------ | ---------------------------- | ---------------------------- |
+| **Control Transfer**     | Komutlar ve yapılandırmalar  | Cihaz tanımlama, enumeration |
+| **Bulk Transfer**        | Büyük veri blokları          | USB bellek, yazıcı           |
 

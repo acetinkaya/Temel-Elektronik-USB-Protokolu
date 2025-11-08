@@ -133,5 +133,8 @@ Avantajlar:
 
 	Tak-çalıştır (Plug & Play) desteği
 	Güç + veri aynı kablodan
+	Geniş cihaz desteği
+	Hızlı ve güvenilir iletişim
+
 
 

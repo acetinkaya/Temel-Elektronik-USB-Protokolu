@@ -101,3 +101,6 @@ Endpoint: Cihazın veri alışveriş noktaları (ör. IN/OUT uçları)
 Bir USB veri çerçevesi (frame), paketlerden (packet) oluşur:
 
 | SYNC | PID | ADDR | ENDP | CRC | DATA | EOP |
+
+SYNC: Senkronizasyon başlatma
+

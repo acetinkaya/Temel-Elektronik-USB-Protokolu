@@ -69,7 +69,7 @@ USB 3.0 kablolarda USB 2.0'a göre ek olarak 5 pin daha bulunur (SSTX±, SSRX±,
 
 ---
 
-4. USB Mimari Yapısı
+## 4. USB Mimari Yapısı
 
 USB iletişimi Host (Ana Cihaz) ve Device (Bağımlı Cihaz) arasında gerçekleşir. Veri alışverişi tek yönlüdür (host merkezlidir).
 
@@ -85,7 +85,7 @@ Endpoint: Cihazın veri alışveriş noktaları (ör. IN/OUT uçları)
 
 ---
 
-5. Veri Transfer Modları
+## 5. Veri Transfer Modları
 
 | Mod                      | Özellik                      | Kullanım Alanı               |
 | ------------------------ | ---------------------------- | ---------------------------- |
@@ -96,7 +96,7 @@ Endpoint: Cihazın veri alışveriş noktaları (ör. IN/OUT uçları)
 
 ---
 
-6. USB Paket Yapısı
+## 6. USB Paket Yapısı
 
 Bir USB veri çerçevesi (frame), paketlerden (packet) oluşur:
 

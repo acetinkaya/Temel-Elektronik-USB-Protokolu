@@ -171,6 +171,9 @@ SYNC | PID(DATA0) | 41 6C 69 | CRC16 | EOP ==> DATA alanında “Ali” ASCII ko
 	'l' = 0x6C
 	'i' = 0x69
 
+SYNC | PID(ACK) | EOP  ==> Device paketi düzgün aldığını bildirir.
+
+
 ---
 
 DANIŞMANLI OGRENME @2025

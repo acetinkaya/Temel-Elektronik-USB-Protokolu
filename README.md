@@ -111,3 +111,5 @@ EOP: Çerçeve sonu
 ---
 
 7. Uygulama Örneği
+
+--> Arduino üzerinde

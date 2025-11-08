@@ -165,7 +165,7 @@ USB Data Paketi:
 
 SYNC | PID(OUT) | ADDR(0010001) | ENDP(0001) | CRC5 | EOP ==> Host --> “Aygıt adresi 17, endpoint 1’e yere veri gönderiyorum.”
 
-SYNC | PID(DATA0) | 41 6C 69 | CRC16 | EOP ==> DATA alanında “Ali” ASCII kodları eklendi..
+SYNC | PID(DATA0) | 41 6C 69 | CRC16 | EOP ==> DATA alanında “Ali” ASCII kodları eklendi ve CRC16 bu üç bayta göre hesaplanır.
 
 	'A' = 0x41
 	'l' = 0x6C

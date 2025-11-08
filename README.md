@@ -167,6 +167,9 @@ SYNC | PID(OUT) | ADDR(0010001) | ENDP(0001) | CRC5 | EOP ==> Host --> “Aygıt
 
 SYNC | PID(DATA0) | 41 6C 69 | CRC16 | EOP
 
+	'A' = 0x41
+	'l' = 0x6C
+	'i' = 0x69
 
 ---
 

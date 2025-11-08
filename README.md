@@ -153,6 +153,7 @@ USB paket yapısı içerisinde “Ali” metin verisini DATA field içinde nası
 
 | Karakter | ASCII (dec) | ASCII (hex) | Binary   |
 | -------- | ----------- | ----------- | -------- |
+| A        | 65          | 0x41        | 01000001 |
 
 
 

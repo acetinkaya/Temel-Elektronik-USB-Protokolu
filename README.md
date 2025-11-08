@@ -159,7 +159,12 @@ USB paket yapısı içerisinde “Ali” metin verisini DATA field içinde nası
 
 Veri olarak gönderilecek 3 bayt: 41 6C 69
 
-USB Data Paketi:
+USB Data Paketi: 
+
+| SYNC | PID | ADDR | ENDP | CRC | DATA | EOP |
+
+
+
 
 ---
 

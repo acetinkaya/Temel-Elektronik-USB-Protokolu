@@ -148,3 +148,7 @@ Dezavantajlar:
 9.  Görsel Şema 
 
 
+
+DANIŞMANLI OGRENME
+
+

@@ -136,5 +136,7 @@ Avantajlar:
 	Geniş cihaz desteği
 	Hızlı ve güvenilir iletişim
 
+Dezavantajlar:
 
-
+	Kablosuz alternatiflere göre mesafe sınırlıdır (5 m max).
+	Host merkezli yapı, cihazlar arası doğrudan iletişime izin vermez.

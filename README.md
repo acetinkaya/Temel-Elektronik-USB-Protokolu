@@ -153,6 +153,8 @@ DANIŞMANLI OGRENME @2025
 
 Takip edip destek verdiğiniz için teşekkürler...
 
+https://www.youtube.com/@danismanliogrenme
+
 
 
 

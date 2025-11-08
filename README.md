@@ -155,6 +155,8 @@ Takip edip destek verdiğiniz için teşekkürler...
 
 https://www.youtube.com/@danismanliogrenme
 
+https://www.instagram.com/danismanliogrenme/
+
 
 
 

@@ -143,6 +143,8 @@ Dezavantajlar:
 	Kablosuz alternatiflere göre mesafe sınırlıdır (5 m max).
 	Host merkezli yapı, cihazlar arası doğrudan iletişime izin vermez.
 
+---
+
 9.  Görsel Şema 
 
 

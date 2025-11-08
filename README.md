@@ -26,7 +26,7 @@ Bus (Veri Yolu): Birden fazla cihazın aynı hat üzerinden haberleşmesine olan
 
 ---
 
-2. USB Sürümleri
+## 2. USB Sürümleri
 
 | Sürüm               | Yıl       | Maksimum Hız | Kablo Tipi / Not        |
 | ------------------- | --------- | ------------ | ----------------------- |
@@ -37,7 +37,7 @@ Bus (Veri Yolu): Birden fazla cihazın aynı hat üzerinden haberleşmesine olan
 
 ---
 
-3. USB Fiziksel Katman (Pin Yapısı)
+## 3. USB Fiziksel Katman (Pin Yapısı)
 
 USB 2.0 Standart Kablo (Tip-A, Tip-B):     
 | Pin | Renk    | Adı  | Açıklama       |

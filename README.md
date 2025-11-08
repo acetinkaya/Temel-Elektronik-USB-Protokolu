@@ -127,6 +127,8 @@ void loop()
   delay(1000);
 }
 
+---
+
 8. Avantajlar ve Dezavantajlar
 
 Avantajlar:

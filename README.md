@@ -64,3 +64,7 @@ USB 3.0 kablolarda USB 2.0'a göre ek olarak 5 pin daha bulunur (SSTX±, SSRX±,
 | 8   | Mor    | SSTX- |  Hızlı Data Alıcı     |
 | 9   | Turuncu    | SSTX+ | Hızlı Data Alıcı  |
 | Shell   | Konnektör Kabuğu  | Dış Folyo |  Plastik  |
+
+https://github.com/acetinkaya/Temel-Elektronik-USB-Protokolu/blob/main/usb30-1.png
+
+

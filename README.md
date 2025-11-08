@@ -92,4 +92,4 @@ Endpoint: Cihazın veri alışveriş noktaları (ör. IN/OUT uçları)
 | **Control Transfer**     | Komutlar ve yapılandırmalar  | Cihaz tanımlama, enumeration |
 | **Bulk Transfer**        | Büyük veri blokları          | USB bellek, yazıcı           |
 | **Interrupt Transfer**   | Kesme tabanlı hızlı iletişim | Klavye, fare                 |
-| **Isochronous Transfer** | 
+| **Isochronous Transfer** | Zaman hassasiyetli akış      | Ses, video veri akışı        |

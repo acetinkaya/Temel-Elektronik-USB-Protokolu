@@ -120,7 +120,7 @@ EOP: Çerçeve sonu
 
 ---
 
-## 7. Uygulama Örneği
+## 8. Uygulama Örneği
 
 --> Arduino üzerinde USB Protokolü ile Seri Haberleşme Uygulaması:
 
@@ -139,7 +139,7 @@ void loop()
    
 ---
 
-## 8. Avantajlar ve Dezavantajlar
+## 9. Avantajlar ve Dezavantajlar
 
 Avantajlar:
 
@@ -155,7 +155,7 @@ Dezavantajlar:
 
 ---
 
-## 9.  Örnek Bilgi Gönderimi
+## 10.  Örnek Bilgi Gönderimi
 
 USB paket yapısı içerisinde “Ali” metin verisini DATA field içinde nasıl taşındığını adım adım görelim.
 

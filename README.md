@@ -112,11 +112,12 @@ EOP: Çerçeve sonu
 
 ## 7. USB Prorokolü Destekli Mikrodenetleyici Datasheetleri
 
-7.1. Atmega 328P Haberleşme Yapısı:
+7.1. Atmega 328P Haberleşme Yapısı [1]:
 
 ![alternatif metin](https://github.com/acetinkaya/Temel-Elektronik-USB-Protokolu/blob/main/Atmega328p_Datasheet.png)
 
 -
+
 
 ![alternatif metin](https://github.com/acetinkaya/Temel-Elektronik-USB-Protokolu/blob/main/Atmega32u4_datasheet.png)
 

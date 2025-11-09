@@ -116,7 +116,7 @@ EOP: Çerçeve sonu
 
 ![alternatif metin](https://github.com/acetinkaya/Temel-Elektronik-USB-Protokolu/blob/main/Atmega32u4_datasheet.png)
 
-https://github.com/acetinkaya/Temel-Elektronik-USB-Protokolu/blob/main/PIC18f2550_Datasheet.png
+![alternatif metin](https://github.com/acetinkaya/Temel-Elektronik-USB-Protokolu/blob/main/PIC18f2550_Datasheet.png)
 
 ---
 

@@ -191,6 +191,11 @@ SYNC | PID(ACK) | EOP  ==> Device paketi düzgün aldığını bildirir.
 
 ---
 
+Referanslar
+
+
+
+
 ## DANIŞMANLI ÖĞRENME @2025
 
 Takip edip destek verdiğiniz için teşekkürler...

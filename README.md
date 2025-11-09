@@ -112,6 +112,8 @@ EOP: Çerçeve sonu
 
 https://github.com/acetinkaya/Temel-Elektronik-USB-Protokolu/blob/main/Atmega328p_Datasheet.png
 
+https://github.com/acetinkaya/Temel-Elektronik-USB-Protokolu/blob/main/Atmega32u4_datasheet.png
+
 ---
 
 ## 7. Uygulama Örneği

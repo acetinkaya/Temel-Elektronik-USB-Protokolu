@@ -110,7 +110,7 @@ EOP: Çerçeve sonu
    
 ---
 
-
+https://github.com/acetinkaya/Temel-Elektronik-USB-Protokolu/blob/main/Atmega328p_Datasheet.png
 
 ---
 

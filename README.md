@@ -124,6 +124,8 @@ EOP: Çerçeve sonu
 
 -
 
+7.3. PIC18F2550 Haberleşme Yapısı [3]:
+
 ![alternatif metin](https://github.com/acetinkaya/Temel-Elektronik-USB-Protokolu/blob/main/PIC18f2550_Datasheet.png)
 
 ---

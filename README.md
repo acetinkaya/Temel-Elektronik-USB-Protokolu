@@ -197,9 +197,9 @@ Referanslar
 
 [2]. 
 
+[3]. 
+
 ----
-
-
 
 ## DANIŞMANLI ÖĞRENME @2025
 

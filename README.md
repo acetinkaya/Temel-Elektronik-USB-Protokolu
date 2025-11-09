@@ -193,7 +193,7 @@ SYNC | PID(ACK) | EOP  ==> Device paketi düzgün aldığını bildirir.
 
 Referanslar
 
-[1]. 
+[1]. https://ww1.microchip.com/downloads/en/DeviceDoc/ATmega48A-PA-88A-PA-168A-PA-328-P-DS-DS40002061A.pdf
 
 [2]. https://ww1.microchip.com/downloads/en/devicedoc/atmel-7766-8-bit-avr-atmega16u4-32u4_datasheet.pdf
 
